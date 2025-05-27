@@ -1,4 +1,5 @@
 # ApnaCollege-Demo
 This is my first Git Repository.
 <br>
-Author - Krish Sabharwal
+Author - Krish Sabharwal (Apna College) 
+
